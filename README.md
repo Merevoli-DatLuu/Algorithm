@@ -9,4 +9,4 @@
 * [Dynamic Program](./dynamicprogram.md)
 * [Graph](./graph.md)
 * [Data Structures](./datastructures.md)
-
+* [Weird Topic](./weirdtopic.md)
