@@ -6,7 +6,7 @@
 * [String](./string.md)
 * [BackTracking](./backtracking.md)
 * [Greedy](./greedy.md)
-* [Dynamic Program](./dynamicprogram)
-* [Graph](./graph)
+* [Dynamic Program](./dynamicprogram.md)
+* [Graph](./graph.md)
 * [Data Structures](./datastructures.md)
 
