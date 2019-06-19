@@ -1,5 +1,5 @@
 # Algorithm
-* Bit Manipulation (./bitmanipulation.md)
+* [Bit Manipulation] (./bitmanipulation.md)
 * Math
 * Sorting
 * Sreaching
