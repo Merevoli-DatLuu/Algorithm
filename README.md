@@ -1,12 +1,12 @@
 # Algorithm
 * [Bit Manipulation](./bitmanipulation.md)
-* Math
-* Sorting
-* Sreaching
-* String 
-* BackTracking
-* Greedy
-* Dynamic Program
-* Graph
-* Data Structures
+* [Math](./math.md)
+* [Sorting](./sorting.md)
+* [Sreaching](./sreaching.md)
+* [String](./string.md)
+* [BackTracking](./backtracking.md)
+* [Greedy](./greedy.md)
+* [Dynamic Program](./dynamicprogram)
+* [Graph](./graph)
+* [Data Structures](./datastructures.md)
 
